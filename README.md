@@ -6,8 +6,6 @@ import, insert, pause_ad, unpause_ad, and update_ad. These tasks can be triggere
 Installation
 Clone the repository:
 
-git clone https://github.com/your-username/adtask.git
-
 Install the dependencies:
 
 cd adtask
