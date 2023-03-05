@@ -3,7 +3,9 @@ This project contains a Django application for managing ads. The application use
 import, insert, pause_ad, unpause_ad, and update_ad. These tasks can be triggered by calling the tasks using invoke command line tool. 
 
 
-Installation
+Installation:
+
+
 Clone the repository:
 
 Install the dependencies:
