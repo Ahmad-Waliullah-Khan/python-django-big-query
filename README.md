@@ -6,11 +6,12 @@ import, insert, pause_ad, unpause_ad, and update_ad. These tasks can be triggere
 Installation:
 
 
-Clone the repository:
+Clone the repository.
 
 Install the dependencies:
 
 cd adtask
+
 pip install -r files/setup/requirements.txt
 
 Migrate the database:
